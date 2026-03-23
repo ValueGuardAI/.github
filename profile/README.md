@@ -1,7 +1,26 @@
 <div align="center">
 
-<img width="256" height="256" alt="ValueGuardAI" src="https://github.com/user-attachments/assets/d5f03dee-3d67-48f4-bf2c-fcdbbafd0de1" />
+<picture>
+  <!-- Dark mode (use WHITE logo) -->
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://github.com/user-attachments/assets/62a7a672-a84a-437c-b5aa-fa83d6a0091e" 
+  />
 
+  <!-- Light mode (use DARK logo) -->
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://github.com/user-attachments/assets/059b109e-5fdc-47ad-bb42-ee483d7128e3" 
+  />
+
+  <!-- Fallback (usually light version) -->
+  <img 
+    width="128" 
+    height="128" 
+    alt="ValueGuardAI" 
+    src="https://github.com/user-attachments/assets/059b109e-5fdc-47ad-bb42-ee483d7128e3" 
+  />
+</picture>
 <br/>
 <br/>
 
