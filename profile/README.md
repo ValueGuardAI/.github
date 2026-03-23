@@ -1,6 +1,6 @@
 <div align="center">
-<img width="1024" height="1024" alt="valueguardai-mono-dark-mark-white-bg" src="https://github.com/user-attachments/assets/d5f03dee-3d67-48f4-bf2c-fcdbbafd0de1" />
 
+<img width="256" height="256" alt="valueguardai-mono-dark-mark-white-bg" src="https://github.com/user-attachments/assets/d5f03dee-3d67-48f4-bf2c-fcdbbafd0de1" />
 <!-- Replace with your actual logo URL once hosted -->
 <!-- <img src="https://raw.githubusercontent.com/ValueGuardAI/.github/main/assets/logo-dark.png" alt="ValueGuardAI" width="280" /> -->
 
