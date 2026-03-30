@@ -83,6 +83,7 @@ AI-powered scanning of 300+ global e-commerce marketplaces. Our proprietary imag
 </td>
 <td width="50%" valign="top">
 
+
 ### 📋 VG Content
 
 **Digital Content & Copyright Protection**
@@ -137,6 +138,7 @@ Deep profiling of unauthorized seller networks using link analysis, behavioral c
 </tr>
 <tr>
 <td width="50%" valign="top">
+
 
 ### 🌐 VG Domain Shield
 
