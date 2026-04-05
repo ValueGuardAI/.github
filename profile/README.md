@@ -154,6 +154,7 @@ Detection and removal of phishing sites, lookalike domains, social media imperso
 - SSL certificate transparency monitoring
 - Brand mention sentiment analysis and threat classification
 
+
 </td>
 <td width="50%" valign="top">
 
@@ -170,6 +171,7 @@ Bridging digital intelligence with real-world enforcement outcomes. Coordination
 - Law enforcement referral packages with evidence compilation
 - Raid coordination and post-raid analysis
 - Litigation support with digital forensics evidence
+
 
 </td>
 </tr>
@@ -223,6 +225,7 @@ Bridging digital intelligence with real-world enforcement outcomes. Coordination
 │   PostgreSQL    Redis         Kafka              S3          CloudFront        │
 └─────────────────────────────────────────────────────────────────────────────────┘
 ```
+
 
 <br/>
 
